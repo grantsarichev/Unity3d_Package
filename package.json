@@ -1,0 +1,20 @@
+{
+  "name": "com.digitainllc.admstreamingpackage",
+  "version": "1.0.0",
+  "displayName": "ADM Internal Streming plugin",
+  "description": "Plugin for audio/video streming.",
+  "unity": "2022.3",
+  "keywords": [
+    "streming",
+    "adm",
+    "internal streming"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://tfs.toto.am/tfs/GitCollection/VirtualSportMultimedia/_git/Internal%20Streaming%20Plugin%20Module"
+  },
+  "author": {
+    "name": "Hrant Sarichev",
+    "email": "hrant.sarichev@digitain.com"
+  }
+}
